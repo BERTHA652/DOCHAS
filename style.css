@@ -24,7 +24,7 @@ body {
 }
 logo {
     display: flex;
-    align-items: center;
+    align-items: start;
     font-family:nunito;
 }
 
