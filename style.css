@@ -38,8 +38,14 @@ header{
     text-align: center;
     background-color: white;
     color: rgb(7, 7, 7);
-    padding: 10px 0;
-    
-    
-    
+    padding: 10px 0;   
+}
+juu{
+    background-image: url('IMAGES/hero.png');
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+    font-family: nunito;
+    color: white;
+    height: 700px;
 }
