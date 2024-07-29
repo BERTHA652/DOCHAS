@@ -2,7 +2,7 @@ nav ul {
 
 margin: 20px;
     padding: 10px;
-    text-align: center;
+    text-align: end;
     
 }
 nav ul li {
@@ -38,17 +38,27 @@ header{
     text-align: center;
     background-color: white;
     color: rgb(7, 7, 7);
-    padding: 10px 0;   
+
 }
-juu{
-    background-image: url('IMAGES/hero.png');
+.juu{
+    background-image: url("IMAGES/hero.png");
     text-align: center;
-    font-size: xx-large;
-    font-weight: 500;
     font-family: nunito;
     color: white;
     height: 700px;
 }
 h1{
     text-align: center;
+    color: white;
+    height: 70px;
+
 }
+p{
+    color: white;
+    text-align:center;
+    height: 70px;
+}
+image{
+    float: left;
+}
+
