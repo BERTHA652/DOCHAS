@@ -15,11 +15,7 @@ nav ul li a {
     text-decoration: none;
 }
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 200px;
+    font-family: nunito;
     background-color:white;
 }
 button {
