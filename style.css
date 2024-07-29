@@ -11,7 +11,7 @@ nav ul li {
     
 }
 nav ul li a {
-    color: rgb(129, 207, 27);
+    color:white;
     text-decoration: none;
 }
 body {
@@ -49,7 +49,7 @@ logo-icon {
 }
 button {
     background-color: #007bff; 
-    color: rgb(29, 199, 72); 
+    color: white; 
     border: none; 
     padding: 10px 20px;
     font-size: 16px;
