@@ -11,7 +11,7 @@ nav ul li {
     
 }
 nav ul li a {
-    color:white;
+    color:rgb(22, 16, 16);
     text-decoration: none;
 }
 body {
@@ -48,19 +48,15 @@ header{
 }
 h1{
     text-align: center;
-    color: white;
+    color: rgb(19, 17, 17);
     height: 70px;
 
 }
 p{
-    color: white;
+    color: rgb(20, 19, 19);
     text-align:center;
     height: 70px;
     font-size: x-large;
 }
-image{
-    image{
-        align-items: first baseline;
-    }
-}
+
 
